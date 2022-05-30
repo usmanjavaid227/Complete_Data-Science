@@ -38,7 +38,7 @@ while True:
             else:
                 print("computer value : ",Cchoice)
                 print("User value : ",uchoice)
-                print("Game draw : ",uchoice)
+                print("Computer win : ",uchoice)
                 ccount=ccount+1
         print("\n\n")
         if ucount==ccount:
