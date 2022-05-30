@@ -23,6 +23,9 @@ while True:
                 uchoice='scissor'
             elif userInput==3:
                 uchoice='paper'
+            else:
+                print("Invalid input")
+                break
             Cchoice=random.choice(l)
             if Cchoice==uchoice:
                 print("computer value : ",Cchoice)
