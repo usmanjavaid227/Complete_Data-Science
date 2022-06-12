@@ -1,6 +1,6 @@
 Gender,Age,Location,Time of class (pm),Duration (min)
-Male,16-30,Pakistan,10:30,60
-Male,16-30,Pakistan,10:00,60
+Male,16-30,Pakistan,,
+Male,16-30,,10:00,60
 Male,16-30,Pakistan,10:00,30
 Male,30-40,Pakistan,9:30,30
 Male,16-30,East,9:30,60
@@ -12,7 +12,8 @@ Male,30-40,Pakistan,10:30,45
 Male,16-30,Pakistan,10:00,60
 Male,16-30,Pakistan,10:30,60
 Male,16-30,Pakistan,9:30,30
-Male,16-30,East,9:30,45
+Male,16-30,East,,45
+,,,,
 Female,30-40,Pakistan,9:30,60
 Male,16-30,West,10:30,45
 Female,16-30,Pakistan,10:30,60
